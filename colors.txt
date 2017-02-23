@@ -2,7 +2,7 @@
 Feel free to download!
 ----------
 
-Red: #FF0000
+Red: #FF0000, 255 0 0
 
 -----Shades & Tints-----
 
@@ -20,7 +20,7 @@ Tints
 
 ----------------
 
-Blue: #0000FF
+Blue: #0000FF, 0 0 255
 
 -----Shades & Tints-----
 
@@ -37,3 +37,5 @@ Tints
 #6464FF, 100 100 255
 
 ----------------
+
+Pink: #FFC0CB, 255 192 203
